@@ -1,11 +1,8 @@
 # Display-Clock
-Create a clock that displays the current time and allows the user to stop/ start
-
-# File: addressbook.py
 # Author: Rosie Pham and Tia Merheb
+# File: addressbook.py
 # Date: September 26, 2020
-# Description: Create a clock that displays the current time and 
-# allows the user to stop/ start
+Create a clock that displays the current time and allows the user to stop/ start
 
 import math 
 import datetime
